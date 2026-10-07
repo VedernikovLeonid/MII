@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.python313_embed\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.askForKernelRestart": false,
+  "jupyter.interactiveWindow.creationMode": "perFile",
+  "files.exclude": {
+    "**/.ipynb_checkpoints": true,
+    "**/__pycache__": true
+  }
+}

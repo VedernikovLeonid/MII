@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.ruff_cache/
+.git-work/
+.python313_embed/
+.tmp-pip/
+.tmp-jupyter/
+.jupyter-config/
+.jupyter-data/
+.jupyter-runtime/
+.matplotlib/
+get-pip.py
+data/*.csv
+outputs/figures/*.png
